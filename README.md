@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Githendra23&amp;label=Profile%20Views&amp;color=red" alt="Profile views"/>
 
 </a>
-<div id="badges" text-align="center">
+<div id="badges" align="center">
   <a href="your-linkedin-URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
