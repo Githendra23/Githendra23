@@ -26,14 +26,14 @@
 <a href="https://heroku.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3--v1.png"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a href="https://www.php.net/manual/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php--v1.png"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/fluency/1x/c-programming.png"/></a>
 <a href="https://cplusplus.com/doc/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="https://www.php.net/manual/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php--v1.png"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/fluency/1x/c-sharp-logo.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.icons8.com/color/48/000000/powershell--v1.png"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/fluency/1x/c-sharp-logo.png"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Githendra23&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githendra23&layout=compact&theme=radical"/>
