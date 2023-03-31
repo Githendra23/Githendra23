@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2463/2463510.png" width="200"/>
+</p>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Githendra Perera</h1>
 
 <img src="https://komarev.com/ghpvc/?username=Githendra23&amp;label=Profile%20Views&amp;color=red" alt="Profile views"/>
