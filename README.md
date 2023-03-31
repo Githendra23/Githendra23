@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Githendra Perera</h1>
-<h3 align="center">Rookie Programmer / Student in France</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Githendra23&amp;label=Profile%20Views&amp;color=red" alt="Profile views"/>
 
