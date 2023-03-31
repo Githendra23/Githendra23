@@ -1,9 +1,9 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm [Githendra Perera](https://github.com/Githendra23)
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Githendra Perera</h1>
 
 <img src="https://komarev.com/ghpvc/?username=Githendra23&amp;label=Profile%20Views&amp;color=red" alt="Profile views"/>
 
 </a>
-<div id="badges" align="center">
+<div id="badges">
   <a href="your-linkedin-URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
