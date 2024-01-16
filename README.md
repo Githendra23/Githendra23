@@ -25,6 +25,7 @@
 
 ## 🛠️ Languages and tools:
 <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
+<a href="https://www.raspberrypi.com/documentation/"><img src="https://img.icons8.com/fluency/48/raspberry.png"/></a>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3--v1.png"/></a>
 <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
