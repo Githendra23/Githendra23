@@ -42,6 +42,8 @@
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.icons8.com/color/48/000000/powershell--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"/></a>
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
+<a href="https://libgdx.com/dev/" target="_blank"><img src="https://libgdx.com/assets/brand/stacked.png" height="48" width="auto" style="background-color: white;"/></a>
+<a href="https://doc.mapeditor.org/en/stable/" target="_blank"><img src="https://www.zwodnik.com/media/cache/06/67/0667f63072501e1f89223b79d4827c0b.png" height="48" width="auto"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Githendra23&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githendra23&layout=compact&theme=radical"/>
