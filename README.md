@@ -28,7 +28,10 @@
 <a href="https://www.raspberrypi.com/documentation/"><img src="https://img.icons8.com/fluency/48/raspberry.png"/></a>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3--v1.png"/></a>
-<a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript"/></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/office/48/react.png" alt="react"/></a>
+<a href="https://nextjs.org/docs"><img src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/></a>
 <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png"/></a>
 <a href="https://expressjs.com/en/5x/api.html" target="_blank"><img src="https://img.icons8.com/fluency/48/express-js.png"/></a>
 <a href="https://www.php.net/manual/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php--v1.png"/></a>
@@ -38,7 +41,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/fluency/1x/c-sharp-logo.png"/></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql--v1.png"/></a>
-<a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.icons8.com/fluency/48/mysql-logo.png"/></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"><img height="48" width="48" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.icons8.com/color/48/000000/powershell--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"/></a>
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
