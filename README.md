@@ -42,9 +42,8 @@
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql--v1.png"/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img height="48" width="48" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/></a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.icons8.com/color/48/000000/powershell--v1.png"/></a>
-<a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"/></a>
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
+<a href="docs.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
 <a href="https://libgdx.com/dev/" target="_blank"><img src="https://libgdx.com/assets/brand/stacked.png" height="48" width="auto" style="background-color: white;"/></a>
 <a href="https://doc.mapeditor.org/en/stable/" target="_blank"><img src="https://www.zwodnik.com/media/cache/06/67/0667f63072501e1f89223b79d4827c0b.png" height="48" width="auto"/></a>
 
