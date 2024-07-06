@@ -35,6 +35,7 @@
 <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png"/></a>
 <a href="https://expressjs.com/en/5x/api.html" target="_blank"><img src="https://img.icons8.com/fluency/48/express-js.png"/></a>
 <a href="https://www.php.net/manual/en/" target="_blank"><img src="https://img.icons8.com/officel/48/php-logo.png"/></a>
+<a href="https://symfony.com/doc/current/index.html" target="_blank"><img src="https://img.icons8.com/color/48/symfony.png"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/fluency/1x/c-programming.png"/></a>
 <a href="https://cplusplus.com/doc/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -42,6 +43,8 @@
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql--v1.png"/></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img height="48" width="48" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/></a>
+<a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png"/></a>
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png"/></a>
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
 <a href="docs.docker.com" target="_blank"><img src="https://img.icons8.com/fluency/48/docker.png"/></a>
 <a href="https://libgdx.com/dev/" target="_blank"><img src="https://libgdx.com/assets/brand/stacked.png" height="48" width="auto" style="background-color: white;"/></a>
