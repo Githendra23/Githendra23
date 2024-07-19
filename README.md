@@ -26,8 +26,9 @@
 ## 🛠️ Languages and tools:
 <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
 <a href="https://www.raspberrypi.com/documentation/"><img src="https://img.icons8.com/fluency/48/raspberry.png"/></a>
-<a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3--v1.png"/></a>
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3--v1.png"/></a>
+<a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/></a>
 <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript"/></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/office/48/react.png" alt="react"/></a>
