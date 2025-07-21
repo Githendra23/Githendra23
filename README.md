@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Githendra Perera</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Githendra Perera <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/25/external-france-countrys-flags-justicon-lineal-color-justicon.png"/></h1>
 
 <img src="https://komarev.com/ghpvc/?username=Githendra23&amp;label=Profile%20Views&amp;color=red" alt="Profile views"/>
 
